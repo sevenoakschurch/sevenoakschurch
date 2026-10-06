@@ -81,6 +81,7 @@ Plain HTML and CSS, no build step: open any `.html` file in a browser to view it
 - `assets/oak-grain.svg` (Teal lines) and `assets/oak-grain-oat.svg` (Oat lines): the oak grain pattern. Add class `grain grain--top-right` (or `grain--bottom-left`) to a section to use it.
 - Sections with a Teal background get class `on-teal`, which flips buttons to Oat and switches the grain to Oat lines.
 - Placeholder text the church still needs to confirm is wrapped in `<span class="tbc">`, which is highlighted on screen. Search for `tbc` before going live.
+- Each page carries `<meta name="robots" content="noindex, nofollow">` while the site is a draft, to keep it out of search engines. Remove it at launch.
 - `brand/inspiration-notes.md`: findings from the inspiration sites and the plan for each page.
 
 ## Still to collect from the branding pack
