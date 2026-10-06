@@ -47,6 +47,15 @@ Concept: "A voice with strength and grace". Work Sans gives modern clarity; Jose
 - Works especially well **layered over photographic backgrounds**.
 - Always use **wide letter spacing**, for breathing room and an elevated, intentional tone.
 
+## Oak grain pattern
+
+A key brand design feature: flowing, wood-grain / contour-style thin lines (like the rings of an oak). Reference: `brand/reference/oak-grain-example.png`.
+
+- Must be **subtle but visible**: background texture, never competing with content.
+- Thin, even-weight lines with no fill.
+- In the reference, the lines are approx `#bfcac7` on a pale Oat background, which is about **Teal at ~30% opacity**.
+- Typically bleeds off the edge of a section or corner, rather than sitting as a contained shape.
+
 ## Still to collect from the branding pack
 
 - Logo files
