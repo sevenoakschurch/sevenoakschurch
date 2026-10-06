@@ -28,9 +28,27 @@ Teal and Oat (primary) should dominate the design. Periwinkle and Stone (seconda
 - Stone is low contrast. Use it for backgrounds, dividers and small decorative elements, not main text.
 - Black text reads well on every brand colour, including Periwinkle and Stone (both pass for body text). Use Black, not White, for body text on those two.
 
+## Typography
+
+From the official branding pack. Follow it exactly and use only these two fonts. Both are free on Google Fonts.
+
+Concept: "A voice with strength and grace". Work Sans gives modern clarity; Josefin Sans adds contrast with tall ascenders and dips below the baseline that echo the movement of tree branches.
+
+### Work Sans (primary typeface)
+
+- Used for **headlines, subheads and body text**.
+- Headings: **Medium (500) or Regular (400)** weight, depending on tone and visual balance.
+- Body text: **Regular (400)** only.
+- Use generous spacing and thoughtful alignment so text feels open, approachable and easy to engage with.
+
+### Josefin Sans (graphical headlines)
+
+- Used **selectively**: graphical headlines or key moments where extra contrast is needed. Not for body text or everyday headings.
+- Works especially well **layered over photographic backgrounds**.
+- Always use **wide letter spacing**, for breathing room and an elevated, intentional tone.
+
 ## Still to collect from the branding pack
 
-- Fonts (heading and body)
 - Logo files
 - Tone of voice
 - Photography
