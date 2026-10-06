@@ -402,6 +402,11 @@ a {
   margin-bottom: 0.45em;
 }
 
+/* Stacked words, one per line, left-aligned under each other */
+.hero-words span {
+  display: block;
+}
+
 .hero-lead {
   font-size: clamp(1.125rem, 2vw, 1.3rem);
   max-width: 36ch;
