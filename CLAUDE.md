@@ -12,9 +12,11 @@ From the official branding pack. Always use these exact values.
 |---|---|---|---|---|
 | Teal | `#3c6060` | 60, 96, 96 | 75, 42, 50, 34 | Primary |
 | Oat | `#ffeee1` | 255, 238, 225 | 0, 9, 13, 0 | Primary |
-| Periwinkle | `#547aff` | 84, 122, 255 | 74, 55, 0, 0 | Primary |
-| Stone | `#a79692` | 167, 150, 146 | 33, 36, 34, 13 | Primary |
+| Periwinkle | `#547aff` | 84, 122, 255 | 74, 55, 0, 0 | Secondary |
+| Stone | `#a79692` | 167, 150, 146 | 33, 36, 34, 13 | Secondary |
 | Mint Blue | `#54fbf4` | 84, 251, 244 | 53, 0, 18, 0 | Accent |
+
+Teal and Oat (primary) should dominate the design. Periwinkle and Stone (secondary) support it. Mint Blue (accent) is used sparingly for highlights.
 
 ### Contrast notes (for readable text)
 
