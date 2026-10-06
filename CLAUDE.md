@@ -56,6 +56,22 @@ A key brand design feature: flowing, wood-grain / contour-style thin lines (like
 - In the reference, the lines are approx `#bfcac7` on a pale Oat background, which is about **Teal at ~30% opacity**.
 - Typically bleeds off the edge of a section or corner, rather than sitting as a contained shape.
 
+## Site brief
+
+Pages wanted:
+
+1. Landing page (home)
+2. Welcome
+3. Sunday meetings
+4. Giving
+5. Who we are
+
+Inspiration: UK church sites the owner sees as "culturally on point":
+
+- https://gasstreet.church/
+- https://kxc.org.uk/
+- https://churchnorth.com/
+
 ## Still to collect from the branding pack
 
 - Logo files
